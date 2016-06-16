@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_nombre_usuario" value="name:Nombre;datatype:string" />
+	<infoitem key="UD_nombre_familia" value="name:FamNombre;datatype:string" />
+	<infoitem key="UD_nombre_subfamilia" value="name:FamNombre;datatype:string" />
+	<infoitem key="UD_nombre_fabricante" value="name:idNombre;datatype:string" />
+	<infoitem key="UD_nombre_producto" value="name:NombreProducto;datatype:string" />
+	<infoitem key="UD_imagen" value="name:FotoThumbs;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update_user" value="name:Nombre;datatype:string,name:Apellidos;datatype:string,name:Email;datatype:string,name:Password;datatype:string" />
+</info>

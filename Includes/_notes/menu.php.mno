@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:FamNombre;datatype:string,name:IdFam;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:idNombre;datatype:string,name:IdSubFam;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:Nombre;datatype:string,name:IdFab;datatype:int" />
+</info>

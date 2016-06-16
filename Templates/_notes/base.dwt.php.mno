@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pedido" value="name:PedLinea;datatype:int,name:PedPartNumber;datatype:string,name:PedCantidad;datatype:int,name:PedPrecio;datatype:real" />
+</info>
